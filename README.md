@@ -15,3 +15,8 @@ Slash's Wikpedia Page:
 An example of a google search:
 -------
 ![Slash Google](http://i.imgur.com/SG0EDy7.png "Slash's Wikipedia Page")
+<br>
+Notes
+----
+This is pretty slow, so don't use it with pages that have super long HTML like facebook. It also might interfere with some javascript the site is doing, so don't use in production!!!!!!!
+Also, credit goes to Conan O'Brien for the joke.
